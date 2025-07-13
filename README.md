@@ -21,13 +21,13 @@ It acts as a personal knowledge base, allowing you to create or load existing da
 
 ---
 
-## ⚙️ Setup Instructions
+# ⚙️ Setup Instructions
 
 Below are step-by-step setup instructions for both Linux and Windows environments using a Python virtual environment (`venv`)
 
 ---
 
-### 🐧 Linux Setup
+## 🐧 Linux Setup
 
 1. Install Python (if not already installed)
 
@@ -69,7 +69,7 @@ pip install -e .
 
 ```
 
-### 🪟 Windows Setup
+## 🪟 Windows Setup
 
 1. Install Python from python.org
 Ensure to check the box: Add Python to PATH during installation.
@@ -88,14 +88,14 @@ cd StudyVault
 pip install -e .
 ```
 
-### 🧪 Usage
+# 🧪 Usage
 Once installed, simply run:
 
 ```
 studyvault
 ```
 
-### 📁 Data Storage
+## 📁 Data Storage
 
 All knowledge files are stored in Markdown format (.md) within the data_libraries/ directory. These files are:
 
@@ -105,15 +105,15 @@ Markdown-editable
 
 Easy to organize and back up
 
-### 🧠 Command Menu
-## 📌 Main Menu
+## 🧠 Command Menu
+### 📌 Main Menu
 	Create - Create a new data library
 
 	List - Load and choose from existing libraries
 
 	Exit - Exit the program
 
-## 📌 Library Menu (after loading a library)
+### 📌 Library Menu (after loading a library)
 	Index - View a list of all section headers
 
 	Store - Add a new titled section
@@ -143,13 +143,13 @@ Easy to organize and back up
 	Exported PDFs are stored in the exports/ folder
 
 
-### 🧪 Development & Testing
+## 🧪 Development & Testing
 If you'd like to contribute or test individual functions, you can run:
 ```
 python -m studyvault.main
 ```
 
-### 🛠 Requirements
+## 🛠 Requirements
 ```
 rich
 markdown2
@@ -165,10 +165,10 @@ You are free to use, modify, and distribute this software, with proper attributi
 
 
 
-### 🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! For major changes, open an issue first to discuss the proposal.
 
-### ✨ Author
+## ✨ Author
 Built with ❤️ by Mahmoud Neana, with support from ChatGPT
 
 🔗 GitHub: https://github.com/mahmdy/studyvault
