@@ -170,4 +170,5 @@ Pull requests are welcome! For major changes, open an issue first to discuss the
 
 ### ✨ Author
 Built with ❤️ by Mahmoud Neana, with support from ChatGPT
+
 🔗 GitHub: https://github.com/mahmdy/studyvault
