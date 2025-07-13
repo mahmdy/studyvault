@@ -1,0 +1,4 @@
+gnureadline; platform_system == "Linux"
+rich
+markdown2
+reportlab
