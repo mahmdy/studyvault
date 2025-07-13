@@ -46,7 +46,7 @@ sudo apt install libreadline-dev
 3. Clone the Repository
 
 ```
-git clone https://github.com/your-username/StudyVault.git
+git clone https://github.com/mahmdy/StudyVault.git
 cd StudyVault
 ```
 
