@@ -172,3 +172,12 @@ Pull requests are welcome! For major changes, open an issue first to discuss the
 Built with ❤️ by Mahmoud Neana, with support from ChatGPT
 
 🔗 GitHub: https://github.com/mahmdy/studyvault
+
+
+# Contacts:
+
+mhamdy@gmail.com
+
+https://www.linkedin.com/in/mahmoud-hamdy/
+
+
